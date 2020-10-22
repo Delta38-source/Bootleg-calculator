@@ -1,0 +1,31 @@
+.functButtons {
+    width: calc(100vw / 4);
+    background-color: #1f3541;
+    border-style: solid;
+    border-color: #51555b;
+    border-width: 2px;
+}
+
+.operatorsButtons {
+    width: calc(100vw / 4);
+    background-color: #057dcd;
+    border-style: solid;
+    border-color: #51555b;
+    border-width: 2px;
+}
+
+.numButtons {
+    width: calc(100vw / 4);
+    background-color: #738fa7;
+    border-style: solid;
+    border-color: #51555b;
+    border-width: 2px;
+}
+
+.numZeroButton {
+    width: calc(50vw);
+    background-color: #738fa7;
+    border-style: solid;
+    border-color: #51555b;
+    border-width: 2px;
+}

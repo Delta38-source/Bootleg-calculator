@@ -1,0 +1,28 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: 600 ;
+    margin: 0;
+    color: white;
+}
+
+body{
+    background-color: rgb(60, 60, 60);
+}
+
+.output {
+    width: calc(100vw);
+    height: calc(20vh);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 60px;
+    background-color: #51555b;
+}
+
+.inputs {
+    display: flex;
+    width: calc(100vw);
+    height: calc(80vh);
+    flex-wrap: wrap;
+}
